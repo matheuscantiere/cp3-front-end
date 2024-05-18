@@ -3,13 +3,11 @@
     margin: 0;
 }
 header{
-    border: solid 1px rgb(0, 0, 0);
     height: 140px;
     width: 980px;
     background-color: rgb(33, 92, 33);
 }
 .sidebar{
-    border: solid 1px black;
     height: 450px;
     width: 270px;
     margin: 15px 15px 15px 0px;
@@ -17,7 +15,6 @@ header{
     background-color: rgb(33, 92, 33);
 }
 .content{
-    border: solid 1px black;    
     height: 450px;
     width: 690px;
     margin: 15px 15px 15px 0px;
@@ -25,7 +22,6 @@ header{
     background-color: rgb(33, 92, 33);
 }
 footer{
-    border: solid 1px black;
     height: 70px;
     width: 980px;
     background-color: rgb(33, 92, 33);
